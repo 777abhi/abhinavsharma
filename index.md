@@ -1,37 +1,110 @@
-## Welcome to GitHub Pages
+## Summary : 
+### Enable deliver products quicker with testing solutions that are intelligent, automated, agile & on the cloud. 
 
-You can use the [editor on GitHub](https://github.com/777abhi/abhinavsharma/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 👋 Hi, I’m Abhinav Sharma
+- 👀 I’m interested in Test Automation Framework development & designing using 
+    - C# (SpecFlow, RestSharp, Selenium WebDriver)
+    -  JavaScript (oracledb, playwright, mocha)  
+    - CI pipelines (using Azure Pipelines) 
+- 🌱 I’m currently learning 
+    - Playwright for E2E automation
+    - TypeScript/JavaScript
+- 💞️ I’m looking to collaborate on Test automation strategies and designing
+- 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/777abhi/)
+- I blog at [Blogger](https://abhinavsharmanotes.blogspot.com/) & [Wordpress](https://abhinavsharmanotes.wordpress.com/)
+- Check my Azure Certifications at - https://www.credly.com/users/777abhi/badges
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Key Achievements and Responsibilities so far from the beginning of my time as a Quality Professional :
+
+ - system integration functional testing to support complex business solution for customer loyalty program (using .Net Core/NodeJS custom test framework) for - 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+    - ✅ Web applications/Function apps, 
+    - ✅ PowerApps 
+    - ✅ Azure Data Factory pipelines
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ - implemented automated end-2-end integration testing custom framework from scratch to support validation of micro-services (APIs), Azure & Oracle databases (Cloud & On Premise) and UI checks using - 
 
-### Jekyll Themes
+```markdown
+    - ✅ C# (SpecFlow, RestSharp, Selenium WebDriver)
+    - ✅ JavaScript (oracledb, playwright, mocha)
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/777abhi/abhinavsharma/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ - good hands-on experience in writing & integrating automated test scripts into CI pipelines (using Azure Pipelines) for continuous feedback on performance & functionality of enterprise level APIs for below tools - 
+ 
+```markdown
+    - ✅ JMeter
+    - ✅ SOAPUI 
+    - ✅ Postman (using Newman) 
+```
 
-### Support or Contact
+ - enhanced automation framework to continuously test incremental developments and generate extensive test reporting as a living documentation for daily sanity, functional & regression tests results using - 
+ 
+```markdown
+    - ✅ Azure Dashboards
+    - ✅ Azure Test Plans
+    - ✅ SpecFlow+ LivingDoc
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - strong hands-on experience in using distributed source control GIT - feature/release branching with polices and automated gates for deployment (Azure Git)
+
+ - created and maintained performance test scripts for SOAP/REST APIs & carried out performance testing (using JMeter)
+
+ - performed data migration testing for moving customer credentials from on premise oracle database to Azure B2C identity cloud solution (MS Graph API testing using Postman)
+
+ - experience in handling multiple dev and test teams with different tech stack for troubleshooting, coordination, defect triage & successful delivery of features in production
+
+ - helped & mentored team members in learning new technologies and how to implement those quickly within their respective projects
+
+ - performed ETL (Extract, Transform & Load) testing using custom build C# automated framework to test SQL stored procedures, Azure Data factory pipelines for data flow validation from source to target post transformation as per business logic
+
+
+ - written automated test scripts in Databricks notebooks to tests migration of historical data from Cosmos DB to Azure SQL database & integrated them in CI pipeline (using Python, Azure Pipelines, Azure Databricks)
+
+
+ - enhanced automation framework to continuously test incremental developments for daily data loading and transformation
+
+
+ - created and plugged automated acceptance tests (scripted using Transact-SQL queries ) in Test/UAT & Production environment for daily ETL loading of facts and dimension tables
+
+
+ - worked using Agile methodologies with sprint ceremonies and management using tools like JIRA, Confluence, Trello, BigBucket GIT and Jenkins-CI
+
+
+ - created & maintained end-2-end behaviour driven development (BDD) automation framework using Cucumber integration over Selenium WebDriver-Java from ground up
+
+
+ - designed feature files (in Gherkin) with business as an analyst for ensuring that right product is being build
+
+
+ - used TestNg and Junit test frameworks for assertions of business requirements and implemented parallel execution of feature files to save time by almost 50% using Cucumber-Jvm framework
+
+
+ - used Cucumber-Reporting framework for generation of living documentation for non-technical stakeholders 
+
+
+ - worked as an administrator for IBM Rational Jazz and HP ALM tools and performed data migration by creating an automated bus from IBM Rational tools to HPALM and JIRA using TaskTop Sync client
+
+
+ - Test strategy documentation, planning inclusive of requirement capturing, analysis & project estimates for new projects
+
+
+ - performed manual and automated system regression/ integration /sanity and smoke testing for new builds by creating and executing test scenarios, cases and steps
+ 
+ - defect tracking and logging defects found in any testing using Microsoft Test Manager, HP-ALM, Rational RQM, JIRA and took them to complete closure with retesting
+
+ - tracked and performed risks analysis & its mitigation planning
+ 
+ - mentored & trained a team of 2 people in automation by enabling them by quickly setting up automation project from scratch using Serenity BDD within few hours and managed them for 6 months for a short term client project
+ 
+ - ensured business continuity by cross utilisation & training of resources in different modules
+
+ - monthly status reporting & automated effort tracking using excel (with macros)
+
+<!---
+777abhi/777abhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
