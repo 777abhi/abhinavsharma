@@ -9,10 +9,11 @@
 - 🌱 I’m currently learning 
     - Playwright for E2E automation
     - TypeScript/JavaScript
+    - Youtube content creation - Knowledge Sharing - [Test Automation Series Playlist](https://www.youtube.com/watch?v=BcSO9cQC06c&list=PL18bn1hY6igVa_WBzDAOayYIu-tNazixG&t=0s&ab_channel=AbhinavSharma)   
 - 💞️ I’m looking to collaborate on Test automation strategies and designing
 - 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/777abhi/)
 - I blog at [Blogger](https://abhinavsharmanotes.blogspot.com/) & [Wordpress](https://abhinavsharmanotes.wordpress.com/)
-- Check my Azure Certifications at - https://www.credly.com/users/777abhi/badges
+- Check my Azure Certifications at - [Credly](https://www.credly.com/users/777abhi/badges)
 
 
 
