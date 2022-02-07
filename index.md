@@ -1,23 +1,29 @@
-## Summary : 
-### Enable deliver products quicker with testing solutions that are intelligent, automated, agile & on the cloud. 
+## Summary - 
+### Enable business deliver products quicker with testing solutions that are intelligent, automated, agile & on the cloud. 
 
-## 👋 Hi, I’m Abhinav Sharma
-- 👀 I’m interested in Test Automation Framework development & designing using 
-    - C# (SpecFlow, RestSharp, Selenium WebDriver)
-    -  JavaScript (oracledb, playwright, mocha)  
-    - CI pipelines (using Azure Pipelines) 
-- 🌱 I’m currently learning 
-    - Playwright for E2E automation
-    - TypeScript/JavaScript
-    - Youtube content creation - Knowledge Sharing - [Test Automation Series Playlist](https://www.youtube.com/watch?v=BcSO9cQC06c&list=PL18bn1hY6igVa_WBzDAOayYIu-tNazixG&t=0s&ab_channel=AbhinavSharma)   
-- 💞️ I’m looking to collaborate on Test automation strategies and designing
-- 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/777abhi/)
-- I blog at [Blogger](https://abhinavsharmanotes.blogspot.com/) & [Wordpress](https://abhinavsharmanotes.wordpress.com/)
-- Check my Azure Certifications at - [Credly](https://www.credly.com/users/777abhi/badges)
+# 👋 Hi, I’m Abhinav Sharma
+<br/><br/> 
+## 👀 I’m interested in Test Automation Framework development & designing using
+- C# (SpecFlow, RestSharp, Selenium WebDriver)
+- JavaScript (oracledb, playwright, mocha)  
+- CI pipelines (using Azure Pipelines) 
+    
+<br/><br/> 
+## 🌱 I’m currently learning & pursuing 
+- Playwright for E2E automation
+- TypeScript/JavaScript
+- Youtube content creation - Knowledge Sharing - [Test Automation Series Playlist](https://www.youtube.com/watch?v=BcSO9cQC06c&list=PL18bn1hY6igVa_WBzDAOayYIu-tNazixG&t=0s&ab_channel=AbhinavSharma) 
+- Renewal of Certification - Azure Security Engineer Associate
+    
+<br/><br/>    
+## 💞️ I’m looking to collaborate on Test automation strategies and designing
+## 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/777abhi/)
+## ✍️ Blog @ [Blogger](https://abhinavsharmanotes.blogspot.com/) & [Wordpress](https://abhinavsharmanotes.wordpress.com/)
+## 🎓 My Azure Certifications @ [Credly](https://www.credly.com/users/777abhi/badges)
 
+<br/><br/> 
 
-
-### Key Achievements and Responsibilities so far from the beginning of my time as a Quality Professional :
+## 💻 As a Quality Professional I have contributed on : 
 
  - system integration functional testing to support complex business solution for customer loyalty program (using .Net Core/NodeJS custom test framework) for - 
 
@@ -50,11 +56,25 @@
     - ✅ SpecFlow+ LivingDoc
 ```
 
- - strong hands-on experience in using distributed source control GIT - feature/release branching with polices and automated gates for deployment (Azure Git)
+ - strong hands-on experience in using distributed source control GIT - feature/release branching with polices and automated gates for deployment
 
- - created and maintained performance test scripts for SOAP/REST APIs & carried out performance testing (using JMeter)
+```markdown
+    - ✅ Azure GIT
+    - ✅ GitHub
+```
 
- - performed data migration testing for moving customer credentials from on premise oracle database to Azure B2C identity cloud solution (MS Graph API testing using Postman)
+ - created and maintained performance test scripts using JMETER & carried out performance testing
+
+```markdown
+    - ✅ SOAP Services 
+    - ✅ REST APIS
+```
+
+ - performed data migration testing for moving customer credentials from on premise oracle database to Azure B2C identity cloud solution
+
+```markdown
+    - ✅ MS Graph API testing using Postman
+```
 
  - experience in handling multiple dev and test teams with different tech stack for troubleshooting, coordination, defect triage & successful delivery of features in production
 
@@ -63,7 +83,13 @@
  - performed ETL (Extract, Transform & Load) testing using custom build C# automated framework to test SQL stored procedures, Azure Data factory pipelines for data flow validation from source to target post transformation as per business logic
 
 
- - written automated test scripts in Databricks notebooks to tests migration of historical data from Cosmos DB to Azure SQL database & integrated them in CI pipeline (using Python, Azure Pipelines, Azure Databricks)
+ - written automated test scripts in Databricks notebooks to tests migration of historical data from Cosmos DB to Azure SQL database & integrated them in CI pipeline using
+
+```markdown
+    - ✅ Python
+    - ✅ Azure Pipelines
+    - ✅ Azure Databricks
+```
 
 
  - enhanced automation framework to continuously test incremental developments for daily data loading and transformation
@@ -72,7 +98,11 @@
  - created and plugged automated acceptance tests (scripted using Transact-SQL queries ) in Test/UAT & Production environment for daily ETL loading of facts and dimension tables
 
 
- - worked using Agile methodologies with sprint ceremonies and management using tools like JIRA, Confluence, Trello, BigBucket GIT and Jenkins-CI
+ - worked using Agile methodologies with sprint ceremonies and management using tools like 
+
+```markdown
+    - ✅ JIRA, Confluence, Trello, BigBucket GIT and Jenkins-CI
+```
 
 
  - created & maintained end-2-end behaviour driven development (BDD) automation framework using Cucumber integration over Selenium WebDriver-Java from ground up
