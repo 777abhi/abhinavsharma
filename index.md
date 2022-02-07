@@ -2,7 +2,6 @@
 ### Enable business deliver products quicker with testing solutions that are intelligent, automated, agile & on the cloud. 
 
 # 👋 Hi, I’m Abhinav Sharma
-<br/><br/> 
 ## 👀 I’m interested in Test Automation Framework development & designing using
 - C# (SpecFlow, RestSharp, Selenium WebDriver)
 - JavaScript (oracledb, playwright, mocha)  
