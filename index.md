@@ -9,6 +9,12 @@
     
 <br/>
 ## 🌱 I’m currently learning & pursuing 
+|To Do |In Progress |Done |
+___
+|||
+___
+
+
 >- [Playwright](https://playwright.dev/) for E2E automation
 >- TypeScript [Udemy course](https://www.udemy.com/course/understanding-typescript/)
 >- Exploring Youtube content creation & delivery via knowledge sharing on test automation - [Series Playlist](https://www.youtube.com/watch?v=BcSO9cQC06c&list=PL18bn1hY6igVa_WBzDAOayYIu-tNazixG&t=0s&ab_channel=AbhinavSharma) 
