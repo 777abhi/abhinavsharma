@@ -9,10 +9,11 @@
     
 <br/>
 ## 🌱 I’m currently learning & pursuing 
-|To Do |In Progress |Done |
-___
-|||
-___
+
+
+
+
+
 
 
 >- [Playwright](https://playwright.dev/) for E2E automation
