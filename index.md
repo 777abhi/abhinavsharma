@@ -10,17 +10,23 @@
 <br/>
 ## 🌱 I’m currently learning & pursuing 
 
+### In Progress 
 
+>- Renewal of Certification - [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
+>- Learn and Practice French - [Duolingo](https://www.duolingo.com/course/fr/en/Learn-French)   
+>- UK DL Theory test practice
+>- Healthy Lifestyle - [Nourish with Sim](https://nourishwithsim.com/collections/flexible-plans/products/reboot-lite) 
 
-
-
-
+### On Hold - Limit In Progress
 
 >- [Playwright](https://playwright.dev/) for E2E automation
 >- TypeScript [Udemy course](https://www.udemy.com/course/understanding-typescript/)
 >- Exploring Youtube content creation & delivery via knowledge sharing on test automation - [Series Playlist](https://www.youtube.com/watch?v=BcSO9cQC06c&list=PL18bn1hY6igVa_WBzDAOayYIu-tNazixG&t=0s&ab_channel=AbhinavSharma) 
->- Renewal of Certification - [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
-    
+
+### Planned 
+>- Renewal of Certification - Azure Solution Architect  
+
+
 <br/> 
 ## 💞️ I’m looking to collaborate on Test automation strategies and designing
 ## 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/777abhi/)
@@ -45,40 +51,40 @@
 >> Role - Senior Quality Assurance Automation Engineer
 >>> - system integration functional testing to support complex business solution for customer loyalty program (using .Net Core/NodeJS custom test framework) for - 
 >>>>```markdown
->>>>    - ✅ Web applications/Function apps, 
->>>>    - ✅ PowerApps 
->>>>    - ✅ Azure Data Factory pipelines
+>>>>    - Web applications/Function apps, 
+>>>>    - PowerApps 
+>>>>    - Azure Data Factory pipelines
 >>>>```
 >>>- implemented automated end-2-end integration testing custom framework from scratch to support validation of micro-services (APIs), Azure & Oracle databases (Cloud & On Premise) and UI checks using - 
 >>>>```markdown
->>>>    - ✅ C# (SpecFlow, RestSharp, Selenium WebDriver)
->>>>    - ✅ JavaScript (oracledb, playwright, mocha)
+>>>>    - C# (SpecFlow, RestSharp, Selenium WebDriver)
+>>>>    - JavaScript (oracledb, playwright, mocha)
 >>>>```
 >>> - good hands-on experience in writing & integrating automated test scripts into CI pipelines (using Azure Pipelines) for continuous feedback on performance & functionality of enterprise level APIs for below tools - 
 >>>>```markdown
->>>>    - ✅ JMeter
->>>>    - ✅ SOAPUI 
->>>>    - ✅ Postman (using Newman) 
+>>>>    - JMeter
+>>>>    - SOAPUI 
+>>>>    - Postman (using Newman) 
 >>>>```
 >>> - enhanced automation framework to continuously test incremental developments and generate extensive test reporting as a living documentation for daily sanity, functional & regression tests results using - 
 >>>>```markdown
->>>>    - ✅ Azure Dashboards
->>>>    - ✅ Azure Test Plans
->>>>    - ✅ SpecFlow+ LivingDoc
+>>>>    - Azure Dashboards
+>>>>    - Azure Test Plans
+>>>>    - SpecFlow+ LivingDoc
 >>>>```
 >>> - strong hands-on experience in using distributed source control GIT - feature/release branching with polices and automated gates for deployment
 >>>>```markdown
->>>>    - ✅ Azure GIT
->>>>    - ✅ GitHub
+>>>>    - Azure GIT
+>>>>    - GitHub
 >>>>```
 >>> - created and maintained performance test scripts using JMETER & carried out performance testing>
 >>>>```markdown
->>>>    - ✅ SOAP Services 
->>>>    - ✅ REST APIS
+>>>>    - SOAP Services 
+>>>>    - REST APIS
 >>>>```
 >>> - performed data migration testing for moving customer credentials from on premise oracle database to Azure B2C identity cloud solution
 >>>>```markdown
->>>>    - ✅ MS Graph API testing using Postman
+>>>>    - MS Graph API testing using Postman
 >>>>```
 >>> - experience in handling multiple dev and test teams with different tech stack for troubleshooting, coordination, defect triage & successful delivery of features in production
 >>> - helped & mentored team members in learning new technologies and how to implement those quickly within their respective projects
@@ -88,9 +94,9 @@
 >>>- performed ETL (Extract, Transform & Load) testing using custom build C# automated framework to test SQL stored procedures, Azure Data factory pipelines for data flow validation from source to target post transformation as per business logic
 >>>- written automated test scripts in Databricks notebooks to tests migration of historical data from Cosmos DB to Azure SQL database & integrated them in CI pipeline using
 >>>>```markdown
->>>>    - ✅ Python
->>>>    - ✅ Azure Pipelines
->>>>    - ✅ Azure Databricks
+>>>>    - Python
+>>>>    - Azure Pipelines
+>>>>    - Azure Databricks
 >>>>```
 >>>- enhanced automation framework to continuously test incremental developments for daily data loading and transformation
 >>>- created and plugged automated acceptance tests (scripted using Transact-SQL queries ) in Test/UAT & Production environment for daily ETL loading of facts and dimension tables
@@ -100,8 +106,8 @@
 >> Role - Quality Assurance Automation Engineer
 >>>- worked using Agile methodologies with sprint ceremonies and management using tools like 
 >>>>```markdown
->>>>    - ✅ JIRA, Confluence, Trello, 
->>>>    - ✅ BigBucket GIT and Jenkins-CI
+>>>>    - JIRA, Confluence, Trello, 
+>>>>    - BigBucket GIT and Jenkins-CI
 >>>>```
 >>>- created & maintained end-2-end behaviour driven development (BDD) automation framework using Cucumber integration over Selenium WebDriver-Java from ground up
 >>>- designed feature files (in Gherkin) with business as an analyst for ensuring that right product is being build
