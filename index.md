@@ -11,20 +11,21 @@
 ## 🌱 I’m currently learning & pursuing 
 
 ### In Progress 
-
->- Renewal of Certification - [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
 >- Learn and Practice French - [Duolingo](https://www.duolingo.com/course/fr/en/Learn-French)   
->- UK DL Theory test practice
 >- Healthy Lifestyle - [Nourish with Sim](https://nourishwithsim.com/collections/flexible-plans/products/reboot-lite) 
+>- Renewal of Certification - Azure Solution Architect  
 
 ### On Hold - Limit In Progress
-
->- [Playwright](https://playwright.dev/) for E2E automation
 >- TypeScript [Udemy course](https://www.udemy.com/course/understanding-typescript/)
 >- Exploring Youtube content creation & delivery via knowledge sharing on test automation - [Series Playlist](https://www.youtube.com/watch?v=BcSO9cQC06c&list=PL18bn1hY6igVa_WBzDAOayYIu-tNazixG&t=0s&ab_channel=AbhinavSharma) 
 
 ### Planned 
->- Renewal of Certification - Azure Solution Architect  
+>- UK DL Theory test practice
+
+
+### Completed 
+>- Renewal of Certification - [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
+>- [Playwright](https://playwright.dev/) for E2E automation
 
 
 <br/> 
@@ -32,7 +33,6 @@
 ## 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/777abhi/)
 ## ✍️ Blog @ [Blogger](https://abhinavsharmanotes.blogspot.com/) & [Wordpress](https://abhinavsharmanotes.wordpress.com/)
 ## 🎓 My Azure Certifications @ [Credly](https://www.credly.com/users/777abhi/badges)
-
 <br/>
 
 ## 💻 As a Quality Professional I have contributed on : 
