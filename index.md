@@ -11,20 +11,21 @@
 ## 🌱 I’m currently learning & pursuing 
 
 ### In Progress 
+>- UK DL Theory test practice
 >- Learn and Practice French - [Duolingo](https://www.duolingo.com/course/fr/en/Learn-French)   
 >- Healthy Lifestyle - [Nourish with Sim](https://nourishwithsim.com/collections/flexible-plans/products/reboot-lite) 
->- Renewal of Certification - Azure Solution Architect  
+
 
 ### On Hold - Limit In Progress
 >- TypeScript [Udemy course](https://www.udemy.com/course/understanding-typescript/)
 >- Exploring Youtube content creation & delivery via knowledge sharing on test automation - [Series Playlist](https://www.youtube.com/watch?v=BcSO9cQC06c&list=PL18bn1hY6igVa_WBzDAOayYIu-tNazixG&t=0s&ab_channel=AbhinavSharma) 
 
 ### Planned 
->- UK DL Theory test practice
-
+>- [Refresher on Pandas & PySpark](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)  
 
 ### Completed 
->- Renewal of Certification - [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
+>- Renewal of Certification - [Azure Solution Architect](https://docs.microsoft.com/en-us/certifications/azure-solutions-architect/)  
+>- Renewal of Certification - [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/certifications/azure-security-engineer/)
 >- [Playwright](https://playwright.dev/) for E2E automation
 
 
