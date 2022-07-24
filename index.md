@@ -3,9 +3,10 @@
 
 # 👋 Hi, I’m Abhinav Sharma
 ## 👀 I’m interested in Test Automation Framework development & designing using
->- C# (SpecFlow, RestSharp, Selenium WebDriver)
+>- C# (SpecFlow, RestSharp, Selenium WebDriver, Appium, Sauce Labs)
 >- JavaScript (oracledb, playwright, mocha)  
->- CI pipelines (using Azure Pipelines) 
+>- Yaml (CICD pipelines using Azure Pipelines)
+>- Jenkins Freestyle & Pipelines 
     
 <br/>
 ## 🌱 I’m currently learning & pursuing 
@@ -21,12 +22,12 @@
 >- Exploring Youtube content creation & delivery via knowledge sharing on test automation - [Series Playlist](https://www.youtube.com/watch?v=BcSO9cQC06c&list=PL18bn1hY6igVa_WBzDAOayYIu-tNazixG&t=0s&ab_channel=AbhinavSharma) 
 
 ### Planned 
->- [Refresher on Pandas & PySpark](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)  
+>- Refresher on [Pandas & PySpark](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)  
 
 ### Completed 
->- Renewal of Certification - [Azure Solution Architect](https://docs.microsoft.com/en-us/certifications/azure-solutions-architect/)  
->- Renewal of Certification - [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/certifications/azure-security-engineer/)
->- [Playwright](https://playwright.dev/) for E2E automation
+>- July - Renewal of Certification - [Azure Solution Architect](https://docs.microsoft.com/en-us/certifications/azure-solutions-architect/)  
+>- June - Renewal of Certification - [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/certifications/azure-security-engineer/)
+>- May - [Playwright](https://playwright.dev/) for E2E automation
 
 
 <br/> 
