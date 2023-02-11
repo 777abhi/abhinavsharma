@@ -1,12 +1,12 @@
 ## Summary - 
-### Enable business deliver products quicker with testing solutions that are intelligent, automated, agile & on the cloud. 
+### Speed up product delivery with smart, automated, agile, and cloud-based testing solutions.
 
 # 👋 Hi, I’m Abhinav Sharma
-## 👀 I’m interested in Test Automation Framework development & designing using
+## 👀 I am keen on creating and building automation-first frameworks
+>- TypeScript (Microsoft Playwright)
+>- CICD pipelines (GitHub workflows & Azure pipelines)
 >- C# (SpecFlow, RestSharp, Selenium WebDriver, Appium, Sauce Labs)
->- JavaScript (oracledb, playwright, mocha)  
->- Yaml (CICD pipelines using Azure Pipelines)
->- Jenkins Freestyle & Pipelines 
+>- Java (Selenium, TestNG, Maven)  
     
 <br/>
 ## 🌱 I’m currently learning & pursuing 
