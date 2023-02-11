@@ -12,9 +12,11 @@
 ## 🌱 I’m currently learning & pursuing 
 
 ### In Progress 
+>- Assist one of my retail clients in implementing and enhancing an "automation-first" approach within sprints. 
 >- UK DL Theory test practice
 >- Learn and Practice French - [Duolingo](https://www.duolingo.com/course/fr/en/Learn-French)   
->- Healthy Lifestyle - [Nourish with Sim](https://nourishwithsim.com/collections/flexible-plans/products/reboot-lite) 
+>- Healthy Lifestyle - [Nourish with Sim](https://nourishwithsim.com/collections/flexible-plans/products/reboot-lite)
+>- Renewal of Certification - [Azure DevOps Engineer](https://learn.microsoft.com/en-us/certifications/devops-engineer/) 
 
 
 ### On Hold - Limit In Progress
@@ -22,7 +24,8 @@
 >- Exploring Youtube content creation & delivery via knowledge sharing on test automation - [Series Playlist](https://www.youtube.com/watch?v=BcSO9cQC06c&list=PL18bn1hY6igVa_WBzDAOayYIu-tNazixG&t=0s&ab_channel=AbhinavSharma) 
 
 ### Planned 
->- Refresher on [Pandas & PySpark](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)  
+>- Refresher on [Pandas & PySpark](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+>- Platform independent app development & testing  
 
 ### Completed 
 >- July - Renewal of Certification - [Azure Solution Architect](https://docs.microsoft.com/en-us/certifications/azure-solutions-architect/)  
