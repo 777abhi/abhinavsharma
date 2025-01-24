@@ -13,8 +13,6 @@
 
 ### In Progress 
 >- Assist one of my clients in implementing and enhancing an "automation-first" approach within sprints. 
->- UK DL Theory test practice
->- Healthy Lifestyle - [Workout with Sabah](https://www.youtube.com/channel/UCut7Y9sJkcEaHtwy7jz6p2A)
 
 ### On Hold - Limit In Progress
 >- TypeScript [Udemy course](https://www.udemy.com/course/understanding-typescript/)
@@ -25,18 +23,10 @@
 >- Refresher on [Pandas & PySpark](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 >- Platform independent app development & testing  
 
-### Completed 
->- Mar'23 -  - Renewal of Certification - [Azure DevOps Engineer](https://learn.microsoft.com/en-us/certifications/devops-engineer/) 
->- July'22 - Renewal of Certification - [Azure Solution Architect](https://docs.microsoft.com/en-us/certifications/azure-solutions-architect/)  
->- June'22 - Renewal of Certification - [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/certifications/azure-security-engineer/)
->- May'22 - [Playwright](https://playwright.dev/) for E2E automation
-
 
 <br/> 
 ## 💞️ I’m looking to collaborate on Test automation strategies and designing
 ## 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/777abhi/)
-## ✍️ Blog @ [Blogger](https://abhinavsharmanotes.blogspot.com/) & [Wordpress](https://abhinavsharmanotes.wordpress.com/)
-## 🎓 My Azure Certifications @ [Credly](https://www.credly.com/users/777abhi/badges)
 <br/>
 
 <!---
