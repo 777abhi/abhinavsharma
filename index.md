@@ -35,8 +35,8 @@
 
 📌 **Microsoft Azure**  
 - **DevOps Engineer Expert** (Valid: 03/2021 - 03/2026)  
-- **Solutions Architect Expert** (Valid: 07/2021 - 07/2025)  
-- **Security Engineer Associate** (Valid: 07/2021 - 07/2025)  
+- **Solutions Architect Expert** (Valid: 07/2021 - 07/2026)  
+- **Security Engineer Associate** (Valid: 07/2021 - 07/2026)  
 - **Administrator Associate** (Valid: 03/2021 - 03/2026)  
 
 📌 **ISTQB Certified Tester**  
