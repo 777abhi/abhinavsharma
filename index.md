@@ -1,7 +1,7 @@
 # **ABHINAV SHARMA**
 
 **Location:** London, UK  
-**Email:** [777abhi@gmail.com](mailto:777abhi@gmail.com) | **LinkedIn** | **GitHub** | **Microsoft** | **Skillsoft**  
+**Email:** [777abhi@gmail.com](mailto:777abhi@gmail.com) | [LinkedIn](https://linkedin.com/in/777abhi/) | [GitHub](https://github.com/777abhi) | [Microsoft](https://learn.microsoft.com/en-us/users/777abhinav/transcript/d8y02h0xwz2yyym?tab=credentials-tab) | [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/abhinavsharma985879/transcript)  
 
 ---
 
