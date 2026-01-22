@@ -7,103 +7,90 @@
 
 ## **SUMMARY**
 
-🔹 **Test Architect** with extensive hands-on experience in **software development processes**, specializing in **test automation** and **cloud-based testing solutions**.  
+Test Architect with extensive hands-on experience in software development processes, specialising in test automation and the development of cloud-based testing solutions.
 
-🔹 A results-driven leader with a passion for developing **high-performing teams** and fostering **innovation** through effective collaboration.  
-
-🔹 **Focus Areas:** Hands-on involvement, leveraging metrics, and optimizing the **quality engineering process** for superior results.
+A results-driven individual with a passion for developing high-performing teams and fostering innovation through effective collaboration. Focuses on hands-on involvement and leveraging metrics to optimise all aspects of the quality engineering process.
 
 ---
 
 ## **CORE COMPETENCIES**
 
 ### **Programming Languages**  
-- **TypeScript**, **YAML**, **Java**, **Python**, **C#**, **T-SQL**  
+- **TypeScript**, **Python**, **YAML**, **Java**, **C#**, **T-SQL**
 
 ### **Testing & Automation Tools**  
-- **Playwright**, **Cucumber BDD**, **Selenium**, **RestAssured**, **Appium**, **JMeter**, **Postman**, **SOAPUI**, **TensorFlow**, **SpecFlow**, **TestNG**  
+- **Playwright**, **Cucumber BDD**, **Selenium**, **RestAssured**, **TensorFlow**, **RestSharp**, **SauceLabs**, **Appium**, **JMeter**, **Postman**, **SOAPUI**, **ReqnRoll(SpecFlow)**, **TestNG**
 
 ### **Defect & Requirements Management**  
-- **Jira**, **Confluence**, **Azure Boards**, **HP ALM**, **IBM Rational Jazz**, **Azure Test Plans**, **Trello**  
+- **Jira**, **Confluence**, **Slack**, **MS Teams**, **Azure Boards**, **HP ALM**, **IBM Rational Jazz**, **Azure Test Plans**, **Trello**
 
 ### **Cloud & DevOps Expertise**  
-- **GitHub Actions**, **AWS**, **Docker**, **Terraform**, **Git**, **Azure**, **Jenkins**, **Azure Pipelines**
+- **GitHub Actions**, **Azure Pipelines**, **Azure**, **Docker**, **GitHub**, **Terraform**, **AWS**, **Jenkins**
 
 ---
 
 ## **CERTIFICATIONS**
 
 📌 **Microsoft Azure**  
-- **DevOps Engineer Expert** (Valid: 03/2021 - 03/2026)  
-- **Solutions Architect Expert** (Valid: 07/2021 - 07/2026)  
-- **Security Engineer Associate** (Valid: 07/2021 - 07/2026)  
-- **Administrator Associate** (Valid: 03/2021 - 03/2026)  
+- **DevOps Engineer Expert**
+- **Solutions Architect Expert**
+- **Security Engineer Associate**
+- **Administrator Associate**
 
 📌 **ISTQB Certified Tester**  
-- Valid from 06/2017  
 
 ---
 
 ## **PROFESSIONAL EXPERIENCE**
 
-### **Qualitest Group**  
-#### **Test Architect**  
-*London, UK* | *Oct 2022 - Present*  
+### **As a Senior Test Architect**
 
-- 🎯 **Integrated Testing into CI/CD Delivery Models**: Supported software solutions for **logistics**, **retail**, and **financial services**.  
-- 👥 **Established a Thriving Quality Engineering Community**: Over **50+ members**, significantly improving team engagement and upskilling.  
-- 🛠️ **Architected Cloud-Based Testing Framework**: Deployed scalable testing solutions used by **10+ teams** for smoke, regression, and performance testing.  
-- ⚡ **Optimized Automation Orchestration**: Achieved **79% execution time reduction**, saving **9 FTEs' workload** daily.  
-- 🚀 **Shift-Left Strategy Implementation**: Boosted test automation contributions **36x** monthly, enhancing development efficiency.  
-- 🤖 **AI-Driven Test Reliability**: Identified and resolved flaky tests, saving significant debugging time and improving pipeline dependability.
+- **Strategic Cloud Migration:** Led the migration of on-premises systems to Azure, simplifying technical landscapes and ensuring seamless collaboration across engineering teams.
+- **Advanced Automation Architecture:** Designed and implemented a Playwright TypeScript framework for backend testing, fully integrated into CI/CD pipelines to accelerate feedback loops.
+- **Security & Risk Mitigation:** Enhanced security by implementing private protected endpoints and mitigated assurance risks for critical healthcare projects.
+- **Shift-Left Implementation:** Introduced in-sprint API/Contract testing and established real-time monitoring dashboards for microservices.
+- **Operational Efficiency:** Eliminated manual interventions and achieved over 100 automated tests within 2 months.
+- **Team Enablement:** Created comprehensive onboarding materials and best practices to drive consistent knowledge sharing and adoption.
 
----
+### **As a Test Architect**
 
-#### **Lead Technical Quality Engineer**  
-*London, UK* | *Aug 2021 - Sep 2022*  
+- **CI/CD Integration:** Played a key role in integrating testing into CI/CD delivery models for logistics, retail, and financial services solutions.
+- **Community Building:** Established a thriving Quality Engineering community of over 50 members, significantly enhancing engagement and skill sets.
+- **Scalable Frameworks:** Architected and deployed a scalable, cloud-based testing framework utilised by 10+ teams for smoke, regression, and performance testing.
+- **Process Optimization:** Optimised automation orchestration, reducing execution time by 79% and saving the equivalent of 9 FTEs' workload daily.
+- **Strategic Leadership:** Championed an automation-first, shift-left strategy, leading to a 36x increase in monthly automation contributions.
 
-- 📌 **Healthcare Technology Project**: Developed a **booking system**, integrated **payment solutions**, and delivered a **vaccine pass app**.  
-- ⚡ **Mobile Test Execution Optimization**: Reduced test execution time by **66%** with innovative architecture.  
-- 📊 **Streamlined Test Reporting**: Achieved a **70% reduction** in test result storage efforts, saving **5 hours per regression cycle**.  
-- 🔧 **Automated PDF Testing**: Saved **2 hours per regression cycle** through automation.  
-- ☁️ **Cloud Platform Migration**: Facilitated the move to **Azure DevOps**, eliminating manual practices.  
+### **As a Lead Technical Quality Engineer**
 
----
-
-### **Tata Consultancy Services**
-
-#### **Senior QA Automation Engineer**  
-*London, UK* | *Jan 2019 - Jul 2021*  
-
-- 🚀 **Led Cloud Migration**: Enhanced digital transformation for **global airline operations** with **loyalty program** and **financial reporting tool** migrations.  
-- ⚙️ **CI/CD Workflow Automation**: Integrated tools like **JMeter**, **SOAPUI**, **Postman**, and **Node.js** for efficiency and reliability.  
-- 🛠️ **Bespoke Frameworks Development**: Designed frameworks for **enterprise-scale applications** using **Azure SQL** and **microservices architectures**.  
-- 🔒 **Secure Data Migration**: Automated **Graph API testing** in Azure B2C for seamless credential transfers.  
-- 👨‍🏫 **Mentorship**: Upskilled team members in new technologies, driving project success.  
+- **Project Delivery:** Led a transformative healthcare technology project, delivering a booking system, payment solutions, and a vaccine pass application.
+- **Mobile Optimization:** Developed an innovative mobile browser test execution architecture, reducing execution time by 66%.
+- **Efficiency Gains:** Optimised reporting to reduce result storage by 70% and automated PDF testing to save significant regression cycle time.
+- **Cloud Transformation:** Facilitated the successful migration of manual practices to the Azure DevOps Cloud platform.
 
 ---
 
-#### **QA Automation Engineer**  
-*Gurugram, India* | *Jan 2013 - Dec 2018*  
+### **As a Senior QA Automation Engineer**
 
-- 🌟 **BDD Automation Framework Creation**: Built **Selenium-Java** and **Cucumber** integration from scratch, ensuring robust testing.  
-- 📋 **Data Migration Automation**: Streamlined processes using **TaskTop Sync** for **IBM Rational Jazz** to **Jira** migrations.  
-- 💡 **Risk Mitigation Strategies**: Conducted thorough risk analyses, ensuring project success.  
-- 👥 **Leadership in Training**: Mentored junior engineers and managed a **6-month client engagement**.  
+- **Digital Transformation:** Led cloud migration for a Customer Loyalty Programme and Financial Reporting Tool, improving operational efficiency for global airline operations.
+- **Pipeline Automation:** Engineered build and test workflows, integrating JMeter, SOAPUI, Postman, and Node.js into CI/CD pipelines.
+- **Bespoke Frameworks:** Developed testing frameworks for enterprise-scale applications using Oracle DB, Azure SQL, and microservices.
+- **Secure Data Migration:** Implemented automated Graph API testing in Azure B2C to ensure secure credential data migration.
+- **Mentorship & Leadership:** Guided cross-functional teams and upskilled members in new technologies to drive project success.
+- **ETL Testing:** Performed ETL testing using a custom C# framework to validate data pipelines and integrity.
+
+### **As a QA Automation Engineer**
+
+- **Agile Delivery:** Oversaw agile cycles for Guest Assistance and Quality Audit Management systems, ensuring high-quality software delivery.
+- **BDD Implementation:** Established a comprehensive BDD automation framework from scratch using Selenium-Java and Cucumber.
+- **Tool Migration:** Managed the migration of IBM Rational Jazz and HP ALM data to Jira using TaskTop Sync.
+- **Risk Management:** Conducted comprehensive risk analysis and implemented mitigation strategies.
+- **Team Development:** Mentored team members, established Serenity BDD projects, and led client engagements.
 
 ---
 
 ## **EDUCATION**
 
-🎓 **Bachelor of Technology (B.Tech.) in Electrical and Electronics Engineering**  
-*SRM University* | *GPA: 8.191/10* | *Jan 2009 - Dec 2013*
-
----
-
-## **KEY ACHIEVEMENTS**  
-- 🔸 Reduced **test execution time by 79%**, saving the equivalent of **9 full-time engineers' daily workload**.  
-- 🔸 Created a **36x increase in test automation contributions**, drastically improving code coverage and developer efficiency.  
-- 🔸 Developed innovative **mobile test execution** and **PDF testing solutions**, reducing regression cycles significantly.  
-- 🔸 Successfully led **cloud migrations**, leveraging **Azure**, **AWS**, and **DevOps pipelines** to deliver scalable and efficient solutions.
+🎓 **Bachelor of Technology – Electrical and Electronics Engineering**
+*2009-13*
 
 ---
