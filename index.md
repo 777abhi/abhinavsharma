@@ -43,9 +43,7 @@ A results-driven individual with a passion for developing high-performing teams 
 
 ## **PROFESSIONAL EXPERIENCE**
 
-### **Global Quality Engineering Consultancy**
-
-#### **Senior Test Architect**
+### **As a Senior Test Architect**
 
 - **Strategic Cloud Migration:** Led the migration of on-premises systems to Azure, simplifying technical landscapes and ensuring seamless collaboration across engineering teams.
 - **Advanced Automation Architecture:** Designed and implemented a Playwright TypeScript framework for backend testing, fully integrated into CI/CD pipelines to accelerate feedback loops.
@@ -54,7 +52,7 @@ A results-driven individual with a passion for developing high-performing teams 
 - **Operational Efficiency:** Eliminated manual interventions and achieved over 100 automated tests within 2 months.
 - **Team Enablement:** Created comprehensive onboarding materials and best practices to drive consistent knowledge sharing and adoption.
 
-#### **Test Architect**
+### **As a Test Architect**
 
 - **CI/CD Integration:** Played a key role in integrating testing into CI/CD delivery models for logistics, retail, and financial services solutions.
 - **Community Building:** Established a thriving Quality Engineering community of over 50 members, significantly enhancing engagement and skill sets.
@@ -62,7 +60,7 @@ A results-driven individual with a passion for developing high-performing teams 
 - **Process Optimization:** Optimised automation orchestration, reducing execution time by 79% and saving the equivalent of 9 FTEs' workload daily.
 - **Strategic Leadership:** Championed an automation-first, shift-left strategy, leading to a 36x increase in monthly automation contributions.
 
-#### **Lead Technical Quality Engineer**
+### **As a Lead Technical Quality Engineer**
 
 - **Project Delivery:** Led a transformative healthcare technology project, delivering a booking system, payment solutions, and a vaccine pass application.
 - **Mobile Optimization:** Developed an innovative mobile browser test execution architecture, reducing execution time by 66%.
@@ -71,9 +69,7 @@ A results-driven individual with a passion for developing high-performing teams 
 
 ---
 
-### **Global IT Services & Consulting Company**
-
-#### **Senior QA Automation Engineer**
+### **As a Senior QA Automation Engineer**
 
 - **Digital Transformation:** Led cloud migration for a Customer Loyalty Programme and Financial Reporting Tool, improving operational efficiency for global airline operations.
 - **Pipeline Automation:** Engineered build and test workflows, integrating JMeter, SOAPUI, Postman, and Node.js into CI/CD pipelines.
@@ -82,7 +78,7 @@ A results-driven individual with a passion for developing high-performing teams 
 - **Mentorship & Leadership:** Guided cross-functional teams and upskilled members in new technologies to drive project success.
 - **ETL Testing:** Performed ETL testing using a custom C# framework to validate data pipelines and integrity.
 
-#### **QA Automation Engineer**
+### **As a QA Automation Engineer**
 
 - **Agile Delivery:** Oversaw agile cycles for Guest Assistance and Quality Audit Management systems, ensuring high-quality software delivery.
 - **BDD Implementation:** Established a comprehensive BDD automation framework from scratch using Selenium-Java and Cucumber.
